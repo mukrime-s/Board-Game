@@ -1,0 +1,8 @@
+normal
+shape
+Square
+Triangle
+Round
+color
+red
+blue
